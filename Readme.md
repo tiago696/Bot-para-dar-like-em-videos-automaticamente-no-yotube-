@@ -1,6 +1,6 @@
 Ola tudo bem? 
 
-A recomendação que tenho a utilização para este progama é que você minimize a aba de informações com:
+A recomendação que tenho a utilização para este progama é que você minimize a aba de informações do yotube com:
 
 * Inicio 
 * Explorar
