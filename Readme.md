@@ -1,6 +1,9 @@
 Ola tudo bem? 
 
-A recomendação que tenho a utilização para este progama é que você minimize a aba de informações do yotube com:
+Para que o progama funcione corretamente é preciso que é que você minimize a aba de informações do yotube com:
+ 
+
+☰  <-- clique no icone com as três barrinhas no canto esquerdo 
 
 * Inicio 
 * Explorar
