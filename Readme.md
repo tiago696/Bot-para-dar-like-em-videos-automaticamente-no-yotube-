@@ -9,7 +9,7 @@ Para que o progama funcione corretamente é preciso que é que você minimize a 
 * Explorar
 * Inscrições
 * Blibioteca
-# ------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 Como o codigo funciona?
 
